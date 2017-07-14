@@ -1,7 +1,6 @@
-原生JS实现AJAX、JSONP及DOM加载完成事件，并提供对应方法
+# 原生JS实现AJAX、JSONP及DOM加载完成事件，并提供对应方法
 
-<!-- more -->
-本文主要介绍了利用原生Javascript实现了异步加载，及跨域请求JSONP的实现方式。
+
 
 ## 一、JS原生AJAX
 
