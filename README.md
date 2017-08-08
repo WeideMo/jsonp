@@ -66,7 +66,7 @@ ajax 请求过程：创建 XMLHttpRequest 对象、连接服务器、发送请�
         for (var name in data) {
             arr.push(encodeURIComponent(name) + "=" + encodeURIComponent(data[name]));
         }
-        arr.push(("v=" + Math.random()).replace("."));
+        arr.push(("v=" + Math.random()).replace(".", ""));
         return arr.join("&");
     }
 	
