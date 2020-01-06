@@ -1,4 +1,4 @@
-# 原生JS实现AJAX、JSONP及DOM加载完成事件，并提供对应方法
+# 原生JS实现AJAX、JSONP及DOM加载完成事件，并提供对应方法[test]
 
 
 
